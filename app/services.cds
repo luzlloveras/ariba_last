@@ -1,2 +1,2 @@
 
-using from './ariba-integration-s4h/annotations';
+using from './orders_ariba/annotations';
